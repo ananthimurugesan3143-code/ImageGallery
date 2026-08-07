@@ -93,7 +93,7 @@ h1{
     margin: 5px;
     border: none;
     border-radius: 5px;
-    background-color: #333;
+    background-color: pink;
     color: white;
     cursor: pointer;
     font-size: 16px;
@@ -104,5 +104,5 @@ h1{
 }
 
 .filter-btn:hover{
-    background-color: #555;
+    background-color: pink;
 }
